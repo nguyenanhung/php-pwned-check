@@ -1,5 +1,5 @@
 # php-pwned-check
-Check Password &amp; account đã bị lộ hay chưa. Sử dụng PHP
+Check if you have an account that has been compromised in a data breach use PHP
 
 How to Use:
 
