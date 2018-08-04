@@ -3,8 +3,8 @@ require_once 'scripts.php';
 // List email
 // one email per line
 $emails = array(
-    'admin@phimhp.com',
-    'dev@nguyenanhung.com'
+    'email1@gmail.com',
+    'email2@hotmail.com'
 );
 // Begin Script
 if (is_array($emails)) {
